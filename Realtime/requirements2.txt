@@ -1,0 +1,8 @@
+websocket-client
+numpy
+sounddevice
+soundfile
+openai
+qdrant-client
+librosa
+wave
